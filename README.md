@@ -2,7 +2,7 @@
 
 ### About
 
-Helps to rename and restore C signatures of JNI native methods
+Helps to rename JNI native methods and restore their C signatures
 
 ### Installation
 
