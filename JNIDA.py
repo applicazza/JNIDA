@@ -13,7 +13,7 @@ class JNIDA(idaapi.plugin_t):
     @staticmethod
     def init():
         jni_native_method_handler.init()
-        return idaapi.PLUGIN_OK
+        return idaapi.PLUGIN_KEEP
 
     @staticmethod
     def run():
